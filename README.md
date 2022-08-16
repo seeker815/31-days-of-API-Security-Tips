@@ -265,7 +265,7 @@ Always be curious about the API responses.*
 *Got stuck during an API pentest? Expand your attack surface! 
 If the API has mobile clients, download old versions of the APK file to explore old/legacy functionality and discover new API endpoints.*
 
-> Remember: companies don’t always implement security mechanisms from day one && DevOps engineers don’t often deprecate old APIs. Leverage these facts to find shadow API endpoints that don’t implement security mechanism (authorization, input filtering & rate limiting)
+> Remember: companies don’t always implement security mechanisms from day zero && DevOps engineers don’t often deprecate old APIs. Leverage these facts to find shadow API endpoints that don’t implement security mechanism (authorization, input filtering & rate limiting)
 
 > Download old APK versions of android apps: [https://apkpure.com](https://apkpure.com)
 --------------------------------------------------------------------------------------------------------------------------
